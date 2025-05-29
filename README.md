@@ -17,7 +17,7 @@ The research explores the design and simulation of a low-power RC oscillator wit
 
 For simulation details, circuit architecture, and Allan deviation analysis, please refer to the attached document:
 
-📎 [Final Presentation PDF](/final_presentation.pdf)
+📎 [Final Presentation PDF](Project/final_presentation.pdf)
 
 ## 📈 Allan Deviation Analysis
 
