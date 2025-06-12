@@ -29,6 +29,3 @@ Allan deviation is used in this project to evaluate the oscillator’s long-term
 - B11901193 劉又慈
 - B11901194 簡敦賢
 
----
-
-Feel free to explore, reuse, and modify the code and report contents with attribution.
